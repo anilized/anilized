@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anil</h1>
-<h3 align="center">Software Engineer at Softtech.</h3>
+<h3 align="center">Software Engineer at Getir</h3>
 
 - 🌱 I’m currently learning **NodeJS, TypeScript and VueJS**
 
