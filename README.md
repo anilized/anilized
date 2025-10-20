@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anil</h1>
-<h3 align="center">Software Engineer at Getir</h3>
+<h3 align="center">Software Engineer at Sisal</h3>
 
-- 🌱 I’m currently learning **NodeJS, TypeScript and VueJS**
-
-- 💬 Ask me about **Java, Spring Framework**
+- 💬 Ask me about **Java and backend stuff.**
 
 - 📫 How to reach me **anillcan7@gmail.com**
 
